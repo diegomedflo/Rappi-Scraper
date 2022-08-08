@@ -8,7 +8,7 @@ _Los datos que se obtienen de cada tipo son:_
 
 _Este proyecto no es un api, es un ejecutable python._
 
-_Algunos ejemeplos de extraccion de datos los encuentras en la carpeta "samples"._
+_Algunos ejemplos de extracción de datos los encuentras en la carpeta "samples"._
 
-_Para obtener más detalles sobre el script puedes contactárme:_
+_Para obtener más detalles sobre el script puedes contactarme:_
 * diegomedflo@gmail.com - Asunto: Rappi Scraper
